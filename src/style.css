@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  text-align: center;
+  padding-bottom: 60px;
+  font-family: monospace;
+}
+
+.form {
+  margin: 2rem auto;
+  padding: 0 1rem;
+  max-width: 660px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.input {
+  min-height: 200px;
+  width: 100%;
+  font-family: monospace;
+  font-size: 1.1rem;
+  padding: 0.3rem;
+  box-sizing: border-box;
+
+}
+
+.meta {
+  display: flex;
+  padding: 0.3rem;
+}
+
+.count {
+  margin-right: auto;
+  color: red;
+}
+
+.button button {
+  font-size: 1.2rem;
+}
